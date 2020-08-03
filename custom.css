@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../img/black-screen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container{
+    width: 950px;
+    background-color: white;
+    box-shadow: 50px 50px 350px 50px rgba(0, 0, 0, 0.2);
+    min-height: 350px;
+    padding: 80px 80px;
+    border: 7px solid black;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left{
+    width: 30%;
+}
+
+.right{
+    width: 55%;
+}
+
+.left img{
+    width: 250px;
+    height: 300px;
+}
+
+.right h1{
+    color: black;
+    font-weight: 950;
+    font-size: 35px;
+}
+.right h2{
+    margin-top: 15px;
+    font-size: 30px;
+}
+
+.right ul{
+    font-size: 20px;
+    margin-top: 14px;
+    list-style-type: disc;
+    list-style-position: inside;
+    margin-bottom: 39px;
+}
+
+.right .lnk{
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 20px;
+    
+}
