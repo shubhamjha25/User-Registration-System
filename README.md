@@ -9,6 +9,8 @@ This repository is about the same, where the user initially sees a **Home Page**
 This simple implementation of the **User Registration & Login System** was done using **PHP** & **MySQL** Database.   
 <br />
 
+<img src="https://github.com/shubhamjha25/User-Registration-System/blob/master/img/Output.PNG" width="95%">
+
 # Setting Up The Environment
 - Make sure that the `XAMPP` server is installed on your system.
 
